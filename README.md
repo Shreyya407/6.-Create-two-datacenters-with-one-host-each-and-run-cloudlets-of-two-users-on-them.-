@@ -1,5 +1,4 @@
-# 6.-Create-two-datacenters-with-one-host-each-and-run-cloudlets-of-two-users-on-them.-
-# Experiment 6  
+ # Experiment 6  
 ## Create two datacenters with one host each and run cloudlets of two users on them
 
 ---
